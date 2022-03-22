@@ -4,6 +4,8 @@ from urllib.request import Request, urlopen
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+#test vscode commit
+
 #DO NOT CHANGE FAILSAFE TO FALSE, YOU WOULD RISK DESTROYING YOUR COMPUTER, DO NOT ALTER THESE FAILSAFES
 pyautogui.FAILSAFE = True
 #0.1 is too fast, this is the lowest pause I'm comfortable with
